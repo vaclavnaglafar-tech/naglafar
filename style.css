@@ -76,3 +76,19 @@ body {
   justify-content: center;
   font-weight: bold;
 }
+.item {
+  margin-bottom: 24px;
+}
+
+.period {
+  font-size: 0.9rem;
+  color: #777;
+}
+
+.position {
+  font-weight: 600;
+}
+
+.company {
+  color: #4b6cb7;
+}
